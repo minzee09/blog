@@ -13,7 +13,7 @@
 
 📬 **Email**  minjikim1679@gmail.com
 
-📱 **Phone** 010-2863-1679
+📱 **Phone** 010-0000-0000
 
 👩🏻‍💻 **GitHub** [<GitHub>](https://github.com/minzee09) 
 

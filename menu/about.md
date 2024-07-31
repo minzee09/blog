@@ -1,8 +1,4 @@
-# about
-
-# 협력과 소통이 가능한 김민지입니다.
-
-![23_프로필사진.jpg](img/minji_profile.jpg)
+# About
 
 ### 김민지
 
